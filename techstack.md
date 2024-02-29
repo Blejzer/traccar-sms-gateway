@@ -3,13 +3,13 @@
 ## Tech Stack
 Blejzer/traccar-sms-gateway is built on the following main stack:
 
+- [Java](https://www.java.com) – Languages
+- [Kotlin](https://kotlinlang.org/) – Languages
+- [RxJava](https://github.com/ReactiveX/RxJava) – Java Tools
 - [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Java](https://www.java.com) – Languages
 - [Mockito](https://site.mockito.org/) – Testing Frameworks
-- [RxJava](https://github.com/ReactiveX/RxJava) – Java Tools
-- [Kotlin](https://kotlinlang.org/) – Languages
 - [Timber.io](https://timber.io/) – Log Management
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
@@ -21,13 +21,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Blejzer/traccar-sms-gateway is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2190/6407041.png' alt='RxJava'/> [RxJava](https://github.com/ReactiveX/RxJava) – Java Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2190/6407041.png' alt='RxJava'/> [RxJava](https://github.com/ReactiveX/RxJava) – Java Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/7634/xBNoTqvy_400x400.jpg' alt='Timber.io'/> [Timber.io](https://timber.io/) – Log Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Blejzer/traccar-sms-gateway](https://github.com/Blejzer/traccar-sms-gateway)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|29<br/>Tools used|02/01/24 <br/>Report generated|
+|29<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
